@@ -1,1 +1,4 @@
 # SAE-2.2-FENARD_YAX
+
+Dorian FENARD
+Cyril YAX
